@@ -1,0 +1,3 @@
+KGHM, 100
+PKN Orlen, 90
+PKO BP, 42
